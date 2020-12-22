@@ -30,3 +30,6 @@ what a function is.
 
 
 Recursion in haskell:
+
+Recursion in Haskell works a little different than kin other programming languages that I'm used to. Since its an imperative language haskell, thinks 
+recursion like a mathematical recursion. In discrete math we can proof operations like fib() or triangle
