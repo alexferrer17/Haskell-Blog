@@ -15,7 +15,7 @@ This is similar to proving a recursion in discrete mathematics. In Haskell recur
 helpful because unlike imperative programming languages Haskell you use recursion to declare
 what a function is. Let's try to define a recursion function in a mathematical way as an example first.
 
-##Example:
+## Example:
 
 For example lets start defining the famous fibbonacci equation
 ```

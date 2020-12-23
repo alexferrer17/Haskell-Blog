@@ -1,11 +1,11 @@
-#syntax of Lambda Calculus
+# syntax of Lambda Calculus
 
 We are going to learn how to build our first programming language. It's going to be called lambda calculus. Why would anybody want to do that you might ask?
 Seems like a bunch, but actually it's easy with everything that we have learned so far. Partly because lambda calculus is a mathematical way to express computations based on abstraction and substitution.
 
 Lambda Calculus can even simulate the Turning Machine!  
 
-##Programming language
+## Programming language
 
 A programming language is basically a set of vocabulary and grammatically words that instruct a computer how to perform a certain task. Since we were able to do an abstract calculator and a easier way to use it with a parser we are ready to start making this programming language.
 

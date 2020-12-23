@@ -1,4 +1,4 @@
-#IMPERATIVE VS FUNCTIONING PROGRAMMING: (Week 1)
+# IMPERATIVE VS FUNCTIONING PROGRAMMING: (Week 1)
 
 In `Imperative programming` we instruct the computer what to do step by step.
 In the other hand `Functioning programming` approaches problem solving as pure functional.
