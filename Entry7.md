@@ -19,3 +19,9 @@ Let (A, ->) be an ARS and let a,b range over A
 ⋅⋅* Confluent if whenever x reduces to y and z, then y and z are joinable
 ⋅⋅* terminating if there is no infinite chain. ()
 ⋅⋅* Normalising, or has a normal form, if every element has a normal form
+
+## Example
+
+a -> bc
+b -> cd
+c-> ab
