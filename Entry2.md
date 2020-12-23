@@ -1,4 +1,4 @@
-# RECURSIVE PROGRAMMING IN HASKELL: (WEEK 2)
+# RECURSIVE PROGRAMMING IN HASKELL: 
 
 After playing around with Haskell basic operations it seems to
 me that is quite straight forward and reminds me of simple algebra.
