@@ -15,7 +15,7 @@ we can do something like this:
 This seems way easier right? We just need to find a way to make this happen,
 the good news is that is has already been done, it is called parsing.
 
-##Parsing
+## Parsing
 
 Parsing literally means analyzing a string of symbols into it's constituents, which creates a parsed tree that shows a relation in its syntax.
 

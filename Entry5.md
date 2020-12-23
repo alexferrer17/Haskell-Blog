@@ -36,7 +36,7 @@ x y z
 (\x (\y . x y)) (\x.x) z
 ```
 
-#Semantics of the Lambda Calculus
+# Semantics of the Lambda Calculus
 
 Since now we know how part of the syntax works we will try to understand how to execute it.
 
